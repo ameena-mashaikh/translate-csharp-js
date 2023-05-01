@@ -1,0 +1,16 @@
+C:\Users\ameena\workspace\translate-csharp-js\enemies-list\csharp\EnemiesList\bin\Debug\net5.0\EnemiesList.exe
+C:\Users\ameena\workspace\translate-csharp-js\enemies-list\csharp\EnemiesList\bin\Debug\net5.0\EnemiesList.deps.json
+C:\Users\ameena\workspace\translate-csharp-js\enemies-list\csharp\EnemiesList\bin\Debug\net5.0\EnemiesList.runtimeconfig.json
+C:\Users\ameena\workspace\translate-csharp-js\enemies-list\csharp\EnemiesList\bin\Debug\net5.0\EnemiesList.runtimeconfig.dev.json
+C:\Users\ameena\workspace\translate-csharp-js\enemies-list\csharp\EnemiesList\bin\Debug\net5.0\EnemiesList.dll
+C:\Users\ameena\workspace\translate-csharp-js\enemies-list\csharp\EnemiesList\bin\Debug\net5.0\EnemiesList.pdb
+C:\Users\ameena\workspace\translate-csharp-js\enemies-list\csharp\EnemiesList\obj\Debug\net5.0\EnemiesList.csproj.AssemblyReference.cache
+C:\Users\ameena\workspace\translate-csharp-js\enemies-list\csharp\EnemiesList\obj\Debug\net5.0\EnemiesList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameena\workspace\translate-csharp-js\enemies-list\csharp\EnemiesList\obj\Debug\net5.0\EnemiesList.AssemblyInfoInputs.cache
+C:\Users\ameena\workspace\translate-csharp-js\enemies-list\csharp\EnemiesList\obj\Debug\net5.0\EnemiesList.AssemblyInfo.cs
+C:\Users\ameena\workspace\translate-csharp-js\enemies-list\csharp\EnemiesList\obj\Debug\net5.0\EnemiesList.csproj.CoreCompileInputs.cache
+C:\Users\ameena\workspace\translate-csharp-js\enemies-list\csharp\EnemiesList\obj\Debug\net5.0\EnemiesList.dll
+C:\Users\ameena\workspace\translate-csharp-js\enemies-list\csharp\EnemiesList\obj\Debug\net5.0\refint\EnemiesList.dll
+C:\Users\ameena\workspace\translate-csharp-js\enemies-list\csharp\EnemiesList\obj\Debug\net5.0\EnemiesList.pdb
+C:\Users\ameena\workspace\translate-csharp-js\enemies-list\csharp\EnemiesList\obj\Debug\net5.0\EnemiesList.genruntimeconfig.cache
+C:\Users\ameena\workspace\translate-csharp-js\enemies-list\csharp\EnemiesList\obj\Debug\net5.0\ref\EnemiesList.dll
