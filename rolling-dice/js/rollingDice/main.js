@@ -30,7 +30,6 @@ const rolledDice = () => {
     let valueStr = '';
 
 
-    let answerStr = '';
 
 
 
@@ -59,8 +58,7 @@ const rolledDice = () => {
             break;
     }
 
-    // answerStr = `${value} + ${valueStr} = ${value += value}`;
-    // return answerStr;
+
     return [value, valueStr];
 }
 
