@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HFFOSP5lbBC7LcT+BOC6JmDSGvhOwOzxVvAPE6iM98OWKIP7ynxkZ/1Eq1hLqta/dZy0RlqKBOTLepJbqQUDkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ameena\\workspace\\translate-csharp-js\\wish-list\\csharp\\WishList\\WishList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ameena\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ameena\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ameena\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ameena\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
