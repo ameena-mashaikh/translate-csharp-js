@@ -1,0 +1,16 @@
+C:\Users\ameena\workspace\translate-csharp-js\insulter\csharp\Insulter\obj\Debug\net5.0\Insulter.csproj.AssemblyReference.cache
+C:\Users\ameena\workspace\translate-csharp-js\insulter\csharp\Insulter\obj\Debug\net5.0\Insulter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameena\workspace\translate-csharp-js\insulter\csharp\Insulter\obj\Debug\net5.0\Insulter.AssemblyInfoInputs.cache
+C:\Users\ameena\workspace\translate-csharp-js\insulter\csharp\Insulter\obj\Debug\net5.0\Insulter.AssemblyInfo.cs
+C:\Users\ameena\workspace\translate-csharp-js\insulter\csharp\Insulter\obj\Debug\net5.0\Insulter.csproj.CoreCompileInputs.cache
+C:\Users\ameena\workspace\translate-csharp-js\insulter\csharp\Insulter\bin\Debug\net5.0\Insulter.exe
+C:\Users\ameena\workspace\translate-csharp-js\insulter\csharp\Insulter\bin\Debug\net5.0\Insulter.deps.json
+C:\Users\ameena\workspace\translate-csharp-js\insulter\csharp\Insulter\bin\Debug\net5.0\Insulter.runtimeconfig.json
+C:\Users\ameena\workspace\translate-csharp-js\insulter\csharp\Insulter\bin\Debug\net5.0\Insulter.runtimeconfig.dev.json
+C:\Users\ameena\workspace\translate-csharp-js\insulter\csharp\Insulter\bin\Debug\net5.0\Insulter.dll
+C:\Users\ameena\workspace\translate-csharp-js\insulter\csharp\Insulter\bin\Debug\net5.0\Insulter.pdb
+C:\Users\ameena\workspace\translate-csharp-js\insulter\csharp\Insulter\obj\Debug\net5.0\Insulter.dll
+C:\Users\ameena\workspace\translate-csharp-js\insulter\csharp\Insulter\obj\Debug\net5.0\refint\Insulter.dll
+C:\Users\ameena\workspace\translate-csharp-js\insulter\csharp\Insulter\obj\Debug\net5.0\Insulter.pdb
+C:\Users\ameena\workspace\translate-csharp-js\insulter\csharp\Insulter\obj\Debug\net5.0\Insulter.genruntimeconfig.cache
+C:\Users\ameena\workspace\translate-csharp-js\insulter\csharp\Insulter\obj\Debug\net5.0\ref\Insulter.dll
