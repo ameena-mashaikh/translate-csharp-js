@@ -37,19 +37,5 @@ foreach (int ins in dispInsults)
 {
     Console.WriteLine(insults[ins]);
 }
-// foreach (string insult in insults)
-// {
-//     while (dispInsults.Count() <= 3)
-//     {
-//         if (!dispInsults.Contains(insult))
-//         {
-//             dispInsults.Add(insult);
-//         }
-//     }
-// };
-// foreach (string ins in dispInsults)
-// {
-//     Console.WriteLine(ins);
 
-// };
 

@@ -1,0 +1,16 @@
+C:\Users\ameena\workspace\translate-csharp-js\fizzbuzz\csharp\Fizzbuzz\obj\Debug\net5.0\Fizzbuzz.csproj.AssemblyReference.cache
+C:\Users\ameena\workspace\translate-csharp-js\fizzbuzz\csharp\Fizzbuzz\obj\Debug\net5.0\Fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameena\workspace\translate-csharp-js\fizzbuzz\csharp\Fizzbuzz\obj\Debug\net5.0\Fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\ameena\workspace\translate-csharp-js\fizzbuzz\csharp\Fizzbuzz\obj\Debug\net5.0\Fizzbuzz.AssemblyInfo.cs
+C:\Users\ameena\workspace\translate-csharp-js\fizzbuzz\csharp\Fizzbuzz\obj\Debug\net5.0\Fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\ameena\workspace\translate-csharp-js\fizzbuzz\csharp\Fizzbuzz\bin\Debug\net5.0\Fizzbuzz.exe
+C:\Users\ameena\workspace\translate-csharp-js\fizzbuzz\csharp\Fizzbuzz\bin\Debug\net5.0\Fizzbuzz.deps.json
+C:\Users\ameena\workspace\translate-csharp-js\fizzbuzz\csharp\Fizzbuzz\bin\Debug\net5.0\Fizzbuzz.runtimeconfig.json
+C:\Users\ameena\workspace\translate-csharp-js\fizzbuzz\csharp\Fizzbuzz\bin\Debug\net5.0\Fizzbuzz.runtimeconfig.dev.json
+C:\Users\ameena\workspace\translate-csharp-js\fizzbuzz\csharp\Fizzbuzz\bin\Debug\net5.0\Fizzbuzz.dll
+C:\Users\ameena\workspace\translate-csharp-js\fizzbuzz\csharp\Fizzbuzz\bin\Debug\net5.0\Fizzbuzz.pdb
+C:\Users\ameena\workspace\translate-csharp-js\fizzbuzz\csharp\Fizzbuzz\obj\Debug\net5.0\Fizzbuzz.dll
+C:\Users\ameena\workspace\translate-csharp-js\fizzbuzz\csharp\Fizzbuzz\obj\Debug\net5.0\refint\Fizzbuzz.dll
+C:\Users\ameena\workspace\translate-csharp-js\fizzbuzz\csharp\Fizzbuzz\obj\Debug\net5.0\Fizzbuzz.pdb
+C:\Users\ameena\workspace\translate-csharp-js\fizzbuzz\csharp\Fizzbuzz\obj\Debug\net5.0\Fizzbuzz.genruntimeconfig.cache
+C:\Users\ameena\workspace\translate-csharp-js\fizzbuzz\csharp\Fizzbuzz\obj\Debug\net5.0\ref\Fizzbuzz.dll
