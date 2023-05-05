@@ -1,0 +1,16 @@
+C:\Users\ameena\workspace\translate-csharp-js\dinner-party\csharp\DinnerParty\obj\Debug\net5.0\DinnerParty.csproj.AssemblyReference.cache
+C:\Users\ameena\workspace\translate-csharp-js\dinner-party\csharp\DinnerParty\obj\Debug\net5.0\DinnerParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameena\workspace\translate-csharp-js\dinner-party\csharp\DinnerParty\obj\Debug\net5.0\DinnerParty.AssemblyInfoInputs.cache
+C:\Users\ameena\workspace\translate-csharp-js\dinner-party\csharp\DinnerParty\obj\Debug\net5.0\DinnerParty.AssemblyInfo.cs
+C:\Users\ameena\workspace\translate-csharp-js\dinner-party\csharp\DinnerParty\obj\Debug\net5.0\DinnerParty.csproj.CoreCompileInputs.cache
+C:\Users\ameena\workspace\translate-csharp-js\dinner-party\csharp\DinnerParty\bin\Debug\net5.0\DinnerParty.exe
+C:\Users\ameena\workspace\translate-csharp-js\dinner-party\csharp\DinnerParty\bin\Debug\net5.0\DinnerParty.deps.json
+C:\Users\ameena\workspace\translate-csharp-js\dinner-party\csharp\DinnerParty\bin\Debug\net5.0\DinnerParty.runtimeconfig.json
+C:\Users\ameena\workspace\translate-csharp-js\dinner-party\csharp\DinnerParty\bin\Debug\net5.0\DinnerParty.runtimeconfig.dev.json
+C:\Users\ameena\workspace\translate-csharp-js\dinner-party\csharp\DinnerParty\bin\Debug\net5.0\DinnerParty.dll
+C:\Users\ameena\workspace\translate-csharp-js\dinner-party\csharp\DinnerParty\bin\Debug\net5.0\DinnerParty.pdb
+C:\Users\ameena\workspace\translate-csharp-js\dinner-party\csharp\DinnerParty\obj\Debug\net5.0\DinnerParty.dll
+C:\Users\ameena\workspace\translate-csharp-js\dinner-party\csharp\DinnerParty\obj\Debug\net5.0\refint\DinnerParty.dll
+C:\Users\ameena\workspace\translate-csharp-js\dinner-party\csharp\DinnerParty\obj\Debug\net5.0\DinnerParty.pdb
+C:\Users\ameena\workspace\translate-csharp-js\dinner-party\csharp\DinnerParty\obj\Debug\net5.0\DinnerParty.genruntimeconfig.cache
+C:\Users\ameena\workspace\translate-csharp-js\dinner-party\csharp\DinnerParty\obj\Debug\net5.0\ref\DinnerParty.dll
