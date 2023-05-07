@@ -1,0 +1,15 @@
+C:\Users\ameena\workspace\translate-csharp-js\word-frequency\csharp\WordFrequency\bin\Debug\net7.0\WordFrequency.exe
+C:\Users\ameena\workspace\translate-csharp-js\word-frequency\csharp\WordFrequency\bin\Debug\net7.0\WordFrequency.deps.json
+C:\Users\ameena\workspace\translate-csharp-js\word-frequency\csharp\WordFrequency\bin\Debug\net7.0\WordFrequency.runtimeconfig.json
+C:\Users\ameena\workspace\translate-csharp-js\word-frequency\csharp\WordFrequency\bin\Debug\net7.0\WordFrequency.dll
+C:\Users\ameena\workspace\translate-csharp-js\word-frequency\csharp\WordFrequency\bin\Debug\net7.0\WordFrequency.pdb
+C:\Users\ameena\workspace\translate-csharp-js\word-frequency\csharp\WordFrequency\obj\Debug\net7.0\WordFrequency.csproj.AssemblyReference.cache
+C:\Users\ameena\workspace\translate-csharp-js\word-frequency\csharp\WordFrequency\obj\Debug\net7.0\WordFrequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameena\workspace\translate-csharp-js\word-frequency\csharp\WordFrequency\obj\Debug\net7.0\WordFrequency.AssemblyInfoInputs.cache
+C:\Users\ameena\workspace\translate-csharp-js\word-frequency\csharp\WordFrequency\obj\Debug\net7.0\WordFrequency.AssemblyInfo.cs
+C:\Users\ameena\workspace\translate-csharp-js\word-frequency\csharp\WordFrequency\obj\Debug\net7.0\WordFrequency.csproj.CoreCompileInputs.cache
+C:\Users\ameena\workspace\translate-csharp-js\word-frequency\csharp\WordFrequency\obj\Debug\net7.0\WordFrequency.dll
+C:\Users\ameena\workspace\translate-csharp-js\word-frequency\csharp\WordFrequency\obj\Debug\net7.0\refint\WordFrequency.dll
+C:\Users\ameena\workspace\translate-csharp-js\word-frequency\csharp\WordFrequency\obj\Debug\net7.0\WordFrequency.pdb
+C:\Users\ameena\workspace\translate-csharp-js\word-frequency\csharp\WordFrequency\obj\Debug\net7.0\WordFrequency.genruntimeconfig.cache
+C:\Users\ameena\workspace\translate-csharp-js\word-frequency\csharp\WordFrequency\obj\Debug\net7.0\ref\WordFrequency.dll
